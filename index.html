@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="uz" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#05080c" />
+    <meta name="color-scheme" content="dark" />
+    <title>ECO-EXPERT.AI</title>
+    <link rel="icon" type="image/png" href="/brand/eco-expert-ai.png" />
+  </head>
+  <body>
+    <div id="map" aria-hidden="true"></div>
+    <canvas id="stream" aria-hidden="true"></canvas>
+    <canvas id="plume" aria-hidden="true"></canvas>
+    <div id="mapsweep" aria-hidden="true"></div>
+    <div id="shade" aria-hidden="true"></div>
+
+    <header class="top">
+      <div class="mark" id="mark"><img src="/brand/eco-expert-ai.png" alt="" /><span>ECO-EXPERT.AI</span></div>
+      <div class="ctl" id="ctl"></div>
+      <div class="count" id="count" aria-live="polite"></div>
+    </header>
+
+    <main id="stage" data-layout="hero">
+      <section id="card-slot" aria-live="polite"></section>
+      <section id="visual-slot" aria-hidden="true"></section>
+    </main>
+
+    <nav id="rail"></nav>
+    <aside class="legend" id="legend"></aside>
+    <aside class="legend legend-zones" id="legend-zones"></aside>
+    <div class="cue" id="cue"></div>
+    <footer class="credits" id="credits"></footer>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
