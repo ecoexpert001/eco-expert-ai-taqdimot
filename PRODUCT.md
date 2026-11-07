@@ -45,7 +45,7 @@ ECO-EXPERT.AI is one platform of six AI agents covering every stage of the exper
 ## Brand Commitments
 
 - Name ECO-EXPERT.AI; owner: State Ecological Expertise Center, Artificial Intelligence Department; Tashkent, 2026.
-- Tagline "Artificial intelligence platform for ecological expertise"; closing line "Faster. More accurate. More transparent."
+- Tagline "Artificial intelligence platform for ecological expertise"; closing line "Fast. Accurate. Transparent."
 - Logo: a deep-teal disc with a lighter teal ring and a green leaf whose vein carries circuit traces with round terminals, taken from the source deck.
 - A presentation "like" the colleague's video, as for ECO SERVICE: cinematic, full screen, map-backed, advanced step by step.
 

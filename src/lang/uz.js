@@ -183,7 +183,7 @@ export default {
       title: 'Ekspertiza tezlashadi, inson omili kamayadi, shaffoflik oshadi',
       body: 'Arizadan rahbariyat nazoratigacha olti agent.',
     },
-    close: { title: 'Tezroq. Aniqroq. Shaffofroq.', body: 'Eʼtiboringiz uchun rahmat!' },
+    close: { title: 'Tez. Aniq. Shaffof.', body: 'Eʼtiboringiz uchun rahmat!' },
   },
 
   viz: {

@@ -180,7 +180,7 @@ export default {
       title: 'Faster expertise, less human factor, greater transparency',
       body: 'Six agents, from the application to management oversight.',
     },
-    close: { title: 'Faster. More accurate. More transparent.', body: 'Thank you for your attention!' },
+    close: { title: 'Fast. Accurate. Transparent.', body: 'Thank you for your attention!' },
   },
 
   viz: {

@@ -33,7 +33,7 @@ The mouse pointer hides itself after two seconds without movement. Step 2 waits 
 | 13–14 | 04 ECO-EXPERT COPILOT: the library of regulations, the article found with its source |
 | 15–18 | 05 ECO-CONTROL: a run of conclusions analyzed, the quality report for management, and before approval every site measured against the protected zones |
 | 19–24 | 06 ECO-MAP: scattered data, every site on the 3D map, the protected zones, one company's plume on the wind, district columns, the whole country |
-| 25–28 | On-premise servers, the legal basis, the results, "Faster. More accurate. More transparent." |
+| 25–28 | On-premise servers, the legal basis, the results, "Fast. Accurate. Transparent." |
 
 ## Edit it
 
